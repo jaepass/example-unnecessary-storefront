@@ -107,7 +107,7 @@
 
                  <div class="grid grid-cols-8 gap-4 content-center px-40 py-5  items-center">
                     <div class="col-span-8">
-                      <p class="text-xl text-gray-700">Shipping Address</p>
+                      <p class="text-xl text-gray-700">Shipping Method</p>
                     </div>
                     <div class="col-span-8">
 
